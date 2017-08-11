@@ -17,6 +17,12 @@ public class LagrangePoly {
 		coefficients.add(0.0);
 	}
 	
+	/**
+	 * Constructs the interpolating polynomial through the prescribed 
+	 * points x[] and y[].
+	 * @param x the x values sampled
+	 * @param y the values to interpolate, y = f(x)
+	 */
 	public LagrangePoly(double[] x, double[] y){
 		points = new ArrayList<Point2D.Double>(x.length);
 		coefficients = new ArrayList<Double>();

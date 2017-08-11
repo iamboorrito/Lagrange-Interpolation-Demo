@@ -5,6 +5,9 @@ public class Frame extends JFrame {
 
 	private static final long serialVersionUID = 4983727800375272097L;
 
+	/**
+	 * Initializes the GUI.
+	 */
 	public Frame(){
 		super("Polynomial Interpolation");
 		
