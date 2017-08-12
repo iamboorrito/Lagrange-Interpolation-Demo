@@ -176,5 +176,5 @@ public class LagrangePoly {
 		
 		return b.toString();
 	}
-
+	
 }
