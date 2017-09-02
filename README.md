@@ -1,2 +1,6 @@
 # Lagrange-Interpolation-Demo
 A graphical demo of using Newton's Divided Differences to calculate Lagrange polynomials.
+
+I made this gif on my laptop, but the program actually runs seemlessly.
+
+![Sample](Screenshots/Sample.gif)
